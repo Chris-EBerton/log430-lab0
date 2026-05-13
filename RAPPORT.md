@@ -7,7 +7,7 @@
 (Il est obligatoire d'ajouter du code, des captures d'écran ou des sorties de terminal pour illustrer chacune de vos réponses.)
 
 
-## 1. XXXXXXXXX
+## 1. XXXXX
 Pytest indique, à la ligne où se situe l’erreur, la source de celle-ci.
 ![](20260513173501.png)
 ## 2. XXXXXXXXX
