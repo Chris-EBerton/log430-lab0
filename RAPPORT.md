@@ -1,19 +1,21 @@
 # Exemple de soumission d'activité
 ÉTS - LOG430 - Architecture logicielle - Hiver/Printemps/Été/Automne 202X
 
-Étudiant(e) : (votre nom)
+Étudiant(e) : Chris-Emmanuel Berton
 
 # Questions
 (Il est obligatoire d'ajouter du code, des captures d'écran ou des sorties de terminal pour illustrer chacune de vos réponses.)
 
-## 1. XXXXXXXXX
-Réponse
 
+## 1. XXXXXXXXX
+Pytest indique, à la ligne où se situe l’erreur, la source de celle-ci.
+![](20260513173501.png)
 ## 2. XXXXXXXXX
-Réponse
+Ces étapes connectent configurent l'environnement à travailler avec GitHub.
 
 ## 3. XXXXXXXXX
-Réponse
+La commande top permet de monitorer 
+![alt text](image.png)
 
 ## N. XXXXXXXXX
 Réponse
