@@ -1,1 +1,8 @@
-TODO
+
+services:
+  calculator:
+    build: .
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true

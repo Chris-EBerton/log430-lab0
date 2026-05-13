@@ -12,3 +12,32 @@ def test_app():
     assert "== Calculatrice v1.0 ==" in welcome_message
 
 # TODO: ajoutez les tests
+def test_addition():
+    # Test case : 2 positives  integer values
+    my_calculator = Calculator()
+    res = my_calculator.addition(2, 3)
+    assert res == 5
+
+def test_addition():
+    # Test case : 2 positives  integer values
+    my_calculator = Calculator()
+    res = my_calculator.addition(2, 3)
+    assert res == 5
+
+def test_soustraction():
+    # Test case : 2 positives  integer values
+    my_calculator = Calculator()
+    res = my_calculator.subtraction(10,8)
+    assert res == 2
+
+def test_addition():
+    # Test case : 2 positives  integer values
+    my_calculator = Calculator()
+    res = my_calculator.multiplication(2, 3)
+    assert res == 6
+
+def test_addition():
+    # Test case : 2 positives  integer values
+    my_calculator = Calculator()
+    res = my_calculator.division(50,2)
+    assert res == 25
